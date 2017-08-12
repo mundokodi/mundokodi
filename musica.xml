@@ -19,7 +19,7 @@
 <item>
 <title>El Gran Silencio</title>
 <thumbnail></thumbnail>
-<fanart><http://zetatijuana.com/wp-content/uploads/2017/05/el-gran-silencio.jpg/fanart>
+<fanart>http://zetatijuana.com/wp-content/uploads/2017/05/el-gran-silencio.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/mundokodi/mundokodi/master/elgransilencio.xml</externallink>
 </item>
@@ -35,7 +35,7 @@
 <item>
 <title>Kinky</title>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://cdn.themexicantimes.mx/wp-content/uploads/2016/10/1-41.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>http://cdn.themexicantimes.mx/wp-content/uploads/2016/10/1-41.jpg</externallink>
 </item>
